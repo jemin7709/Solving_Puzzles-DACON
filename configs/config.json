@@ -1,0 +1,9 @@
+{
+    "IMG_SIZE": 224,
+    "EPOCHS": 2,
+    "LEARNING_RATE": 1e-3,
+    "BATCH_SIZE": 32,
+    "SEED": 41,
+    "PATH": "./Data/",
+    "NUM_WORKERS": 0
+}
