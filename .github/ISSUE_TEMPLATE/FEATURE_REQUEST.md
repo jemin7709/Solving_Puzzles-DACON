@@ -1,3 +1,11 @@
+---
+name: Feature request
+about: Suggest an idea for this project
+title: ''
+labels: ''
+assignees: ''
+---
+
 ## 이슈 유형 (Issue Type)
 <!-- 이슈 유형을 선택하세요. -->
 - [ ] 기능 추가

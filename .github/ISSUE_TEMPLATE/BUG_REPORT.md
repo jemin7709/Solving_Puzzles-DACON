@@ -1,3 +1,11 @@
+---
+name: Bug report 
+about: Create a report to help us improve
+title: ''
+labels: bug
+assignees: ''
+---
+
 ## 이슈 유형 (Issue Type)
 <!-- 이슈 유형을 선택하세요. -->
 - [X] 버그 수정
